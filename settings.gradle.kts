@@ -6,3 +6,4 @@ pluginManagement {
 }
 
 rootProject.name = "KotlinNativeTemplate"
+include("ksplib")
